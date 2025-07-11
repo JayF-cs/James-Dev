@@ -2,8 +2,8 @@
 # Hi there, I'm James 👋
 
 🎓 I'm a Computer Science student at UCF  
-💻 Currently learning full stack development (HTML, CSS, JavaScript)  
-🧠 Exploring machine learning and Python projects  
+💻 Currently learning full stack development (HTML, CSS, JavaScript) 
+🧠 Exploring machine learning and Python projects as well as web development 
 🌱 Always learning and building!
 
 ## 🔧 Technologies
