@@ -3,18 +3,20 @@
 
 🎓 I'm a Computer Science student at UCF  
 💻 Currently learning full stack development (HTML, CSS, JavaScript) 
-🧠 Exploring machine learning and Python projects as well as web development 
+🧠 Exploring machine learning, Python, C, C++ projects, as well as Cyber Security 
 🌱 Always learning and building!
 
 ## 🔧 Technologies
 - Python
 - HTML/CSS
-- JavaScript (in progress)
-- Git & GitHub
+- C
+- C++
+- Docker
+- Linux
 - Machine Learning (beginner)
 
 ## 📈 Goals
-- Build 2-3 ML projects by 2026
+- Build 2-3 large scale projects by 2027
 - Land an internship in software or ML
 - Contribute to open source
 
